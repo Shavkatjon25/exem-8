@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fnt{
+    font-family: sans-serif; 
+}
+
+.home_btn1{
+    font-family: sans-serif; 
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22.77px;
+    text-align: left;
+    color: #fff;    
+}
+.home_l_p{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 450;
+    line-height: 22.77px;
+    text-align: left;
+    color: #B3B3B3;    
+}
+
+.home_r_h2{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25.3px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #ccc;    
+}
+
+.home_r_p{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 450;
+    line-height: 24px;
+    text-align: left;
+    color: #ccc;    
+}
+
+.home_r_btn{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22.77px;
+    letter-spacing: 0.14em;
+    text-align: center;
+    color: #171717;    
+}
+
+.bg{
+    background: linear-gradient(180deg, #3333A3 5.09%, #121212 33.4%);
+}
+.like_bg{
+    background: linear-gradient(180deg, #604EC1 5.09%, #121212 43.28%);
+
+}
+body{
+    background: linear-gradient(180deg, #fff 5.09%, #1212124b 43.28%, #333);
+}
+.sahifa2{
+    background: linear-gradient(180deg, #DEF628 5.09%, #121212 43.28%);
+
+}
+
+.sahifa1_div2_h2{
+    font-family: sans-serif;
+    font-size: 39px;
+    font-weight: 700;
+    line-height: 49.33px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: #fff;    
+}
+
+.name{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25.3px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #fff;    
+}
+
+.playName{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 37.95px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #fff;    
+}
+
+.btn_all{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20.24px;
+    letter-spacing: 0.08em;
+    text-align: right;
+    color: #adadad;    
+}
+.sahifa2_h4{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 450;
+    line-height: 20.24px;
+    letter-spacing: 0.09em;
+    text-align: left;
+    color: #B3B3B3;    
+}
+
+  
